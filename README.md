@@ -9,4 +9,4 @@
 |`whoami`|Muestra el usuario en uso actual| `whoami`|
 |`sudo`|Permite el uso de usuario root para el comando dado|`sudo` apt install cmatrix|
 |`cp`| Copia el archivo especificado a uno nuevo| `cp` file.txt file_copy.txt|
-|`wget`|Utilidad para descarga de archivos no interactiva de la web|wget -q https://packages.microsoft.com/keys/microsoft.asc|
+|`wget`|Utilidad para descarga de archivos no interactiva de la web|`wget` -q https://packages.microsoft.com/keys/microsoft.asc|
