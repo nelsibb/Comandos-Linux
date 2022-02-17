@@ -3,4 +3,4 @@ Registro de comandos de Linux. (Curso: Sistemas Operativos)
 
 |Comandos|Descripción|Ejemplo|
 |--------|-----------|-------|
-|clear|
+|clear|Limpia la terminal|clear|
