@@ -1,5 +1,5 @@
-# Comandos-Linux
-## Comandos útiles.
+# Linux/Bash Commands
+## Commands worthy of remembering.
 
 |Comandos|Descripción|Ejemplo|
 |--------|-----------|-------|
