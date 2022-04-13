@@ -9,7 +9,7 @@
 |`whoami`|Prints the current user| `whoami`|
 |`sudo`|Allows us to run a command as root|`sudo` apt install cmatrix|
 |`cp`| Copies the specified file to a new one| `cp` file.txt file_copy.txt|
-|`wget`|Utility for download of files from the web|`wget` -q https://packages.microsoft.com/keys/microsoft.asc|
+|`wget`|Utility for downloading files from the web|`wget` -q https://packages.microsoft.com/keys/microsoft.asc|
 |`pacman`|Package manager for Arch-based distributions| `sudo pacman -Syuu`|
 |`useradd`|Creates a new user including a personal home dir| `sudo useradd -m newUser -G wheel -p 123456`|
 |`touch`|Creates a new file| `touch file.txt`|
