@@ -1,5 +1,5 @@
 # Comandos-Linux
-## Registro de comandos de Linux. (Curso: Sistemas Operativos)
+## Comandos útiles.
 
 |Comandos|Descripción|Ejemplo|
 |--------|-----------|-------|
